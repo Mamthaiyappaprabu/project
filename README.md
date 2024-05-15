@@ -65,11 +65,17 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output :
+
 ***Input image :***
+
 ![image](https://github.com/Mamthaiyappaprabu/project/assets/119393563/5218c534-7bf2-46c0-ac30-01cc6d949d06)
+
 ***Original image:***
+
 ![image](https://github.com/Mamthaiyappaprabu/project/assets/119393563/09f4c274-9664-4b21-83f1-0ed2dda7cbe2)
+
 ***Segmented ROI:***
+
 ![image](https://github.com/Mamthaiyappaprabu/project/assets/119393563/f4f2879e-838a-4b60-9dfd-fd658e0d96f1)
 
 ## II)Perform handwritting detection in an image:
@@ -102,7 +108,9 @@ detect_handwriting(image_path)
 
 ```
 ## Output :
+
 ***Input image:***
+
 ![image](https://github.com/Mamthaiyappaprabu/project/assets/119393563/9258f903-2201-42ac-b14a-82edbf950277)
 
 ***Handwritten detection :***
